@@ -1,12 +1,12 @@
 <resources>
-  <string id="dataFieldTitle">Data to show with time</string>
-  <string id="activeMinutesTitle">Active minutes</string>
-  <string id="batteryTitle">Battery</string>
-  <string id="dateTitle">Date</string>
-  <string id="distanceTitle">Distance</string>
-  <string id="stepsTitle">Steps</string>
-  <string id="stepGoalTitle">Step goal</string>
-  <string id="colorSchemeTitle">Color scheme</string>
-  <string id="whiteOnBlack">White on black</string>
-  <string id="blackOnWhite">Black on white</string>
+  <string id="dataFieldTitle">Dane do pokazania z godziną</string>
+  <string id="activeMinutesTitle">Minuty aktywności</string>
+  <string id="batteryTitle">Bateria</string>
+  <string id="dateTitle">Data</string>
+  <string id="distanceTitle">Dystans</string>
+  <string id="stepsTitle">Kroki</string>
+  <string id="stepGoalTitle">Kroki dziennie</string>
+  <string id="colorSchemeTitle">Schemat kolorów</string>
+  <string id="whiteOnBlack">Białe na czarnym</string>
+  <string id="blackOnWhite">Czarne na białym</string>
 </resources>
